@@ -12,6 +12,7 @@ Last Updated: 2025-03-31
 - Working Backwards - Colin Bryaer and Bill Carr
 - Give and TAke - Adam Grant
 - Drive - Daniel H. Pink
+- Don't make me think Revisited - Steve Krug
 
 ## Tech Books
 - Clean Code - Robert C. Martin
@@ -23,6 +24,8 @@ Last Updated: 2025-03-31
 - Software Engineering at Google - Titus Winters, Tom Manshreck, Hyrum Wright
 - Patterns of Enterprise Application Architecture - Martin Fowler
 - Javascript: The Good Parts - Douglas Crockford
+- Accelerate - Nicole Forsgren, Jez Humble, Gene Kim
+- 
 
 ## Photography Books
 
