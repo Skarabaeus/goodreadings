@@ -14,6 +14,10 @@ Last Updated: 2025-04-01
 - Drive - Daniel H. Pink
 - Don't make me think Revisited - Steve Krug
 
+## AI
+
+- The Coming Wave - Mustafa Suleyman, Michael Bhaskar
+
 ## Software Development & Tech Books
 
 - Product is Hard SVPG Box Set: Includes INSPIRED, EMPOWERED, LOVED, and TRANSFORMED - von Marty Cagan, Christian Idiodi, Lea Hickman, Chris Jones. Martina Lauchengco, Jonathan Moore
@@ -30,6 +34,7 @@ Last Updated: 2025-04-01
 
 ## Photography Books
 
+- More than a rock - Guy Tal
 
 ## Private Finances
 
