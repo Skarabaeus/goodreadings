@@ -17,6 +17,7 @@ Last Updated: 2025-04-01
 ## Software Development & Tech Books
 
 - Product is Hard SVPG Box Set: Includes INSPIRED, EMPOWERED, LOVED, and TRANSFORMED - von Marty Cagan, Christian Idiodi, Lea Hickman, Chris Jones. Martina Lauchengco, Jonathan Moore
+- Accelerate - Nicole Forsgren, Jez Humble, Gene Kim
 - Clean Code - Robert C. Martin
 - Code Complete 2 - Steve McConnell
 - Enterprise Integration Patterns - Gregor Hohpe, Bobby Woolf
@@ -25,7 +26,7 @@ Last Updated: 2025-04-01
 - Software Engineering at Google - Titus Winters, Tom Manshreck, Hyrum Wright
 - Patterns of Enterprise Application Architecture - Martin Fowler
 - Javascript: The Good Parts - Douglas Crockford
-- Accelerate - Nicole Forsgren, Jez Humble, Gene Kim
+
 
 ## Photography Books
 
