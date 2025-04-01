@@ -11,7 +11,7 @@ Last Updated: 2025-04-01
 - The 5 Dysfunctions of A Team - Patrick Lencioni
 - Working Backwards - Colin Bryaer and Bill Carr
 - Give and TAke - Adam Grant
-- Drive - Daniel H. Pink
+- (Drive)[https://amzn.to/3YcwhaS] - Daniel H. Pink
 - Don't make me think Revisited - Steve Krug
 
 ## AI
