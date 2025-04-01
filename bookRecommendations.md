@@ -4,8 +4,8 @@ Last Updated: 2025-04-01
 
 ## Business Books
 
-- Rework - Jason Fried, David Heinemeier Hansson
-- Managing for Results - Peter F. Drucker
+- [Rework](https://amzn.to/4ljyAmL) - Jason Fried, David Heinemeier Hansson
+- [Managing for Results](https://amzn.to/4lgHXDG) - Peter F. Drucker
 - Good to Great - Jim Collins
 - Culture Map - Erin Meyer
 - The 5 Dysfunctions of A Team - Patrick Lencioni
