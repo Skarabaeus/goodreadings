@@ -22,23 +22,22 @@ Last Updated: 2025-04-01
 
 ## Software Development & Tech Books
 
-- Product is Hard SVPG Box Set: Includes INSPIRED, EMPOWERED, LOVED, and TRANSFORMED - von Marty Cagan, Christian Idiodi, Lea Hickman, Chris Jones. Martina Lauchengco, Jonathan Moore
-- Accelerate - Nicole Forsgren, Jez Humble, Gene Kim
-- Clean Code - Robert C. Martin
-- Code Complete 2 - Steve McConnell
-- Enterprise Integration Patterns - Gregor Hohpe, Bobby Woolf
-- Service Design Patterns - Robert Daigneau
-- Facts and Fallacies of Software Engineering - Robert L. Glass
-- Software Engineering at Google - Titus Winters, Tom Manshreck, Hyrum Wright
-- Patterns of Enterprise Application Architecture - Martin Fowler
-- Javascript: The Good Parts - Douglas Crockford
+- [Product is Hard SVPG Box Set: Includes INSPIRED, EMPOWERED, LOVED, and TRANSFORMED](https://amzn.to/3QWrPcs) - von Marty Cagan, Christian Idiodi, Lea Hickman, Chris Jones. Martina Lauchengco, Jonathan Moore
+- [Accelerate](https://amzn.to/4jbjIVr) - Nicole Forsgren, Jez Humble, Gene Kim
+- [Clean Code](https://amzn.to/424D1dD) - Robert C. Martin
+- [Code Complete 2](https://amzn.to/3XEIfKi) - Steve McConnell
+- [Enterprise Integration Patterns](https://amzn.to/41TcfVh) - Gregor Hohpe, Bobby Woolf
+- [Service Design Patterns](https://amzn.to/42izCGT) - Robert Daigneau
+- [Facts and Fallacies of Software Engineering](https://amzn.to/4ciKDMW) - Robert L. Glass
+- [Software Engineering at Google](https://amzn.to/4jcR5r0) - Titus Winters, Tom Manshreck, Hyrum Wright
+- [Patterns of Enterprise Application Architecture](https://amzn.to/426ZBRu) - Martin Fowler
+- [Javascript: The Good Parts](https://amzn.to/4iKrh5L) - Douglas Crockford
 
 
 ## Photography Books
 
-- More than a rock - Guy Tal
+- [More than a rock](https://amzn.to/4hZJURP) - Guy Tal
 
 ## Private Finances
 
-- Rich Dad - Poor Dad - Robert T. Kiyosaki
-- 
+- [Rich Dad - Poor Dad](https://amzn.to/3FMmUbX) - Robert T. Kiyosaki
