@@ -2,6 +2,8 @@
 
 Last Updated: 2025-04-01
 
+**Note**: the links are affiliate links to Amazon.de
+
 ## Business Books
 
 - [Rework](https://amzn.to/4ljyAmL) - Jason Fried, David Heinemeier Hansson
