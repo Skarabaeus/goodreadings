@@ -1,6 +1,6 @@
 # Book Recommendations
 
-Last Updated: 2025-03-31
+Last Updated: 2025-04-01
 
 ## Business Books
 
@@ -14,18 +14,18 @@ Last Updated: 2025-03-31
 - Drive - Daniel H. Pink
 - Don't make me think Revisited - Steve Krug
 
-## Tech Books
+## Software Development & Tech Books
+
+- Product is Hard SVPG Box Set: Includes INSPIRED, EMPOWERED, LOVED, and TRANSFORMED - von Marty Cagan, Christian Idiodi, Lea Hickman, Chris Jones. Martina Lauchengco, Jonathan Moore
 - Clean Code - Robert C. Martin
-- Makers - Chris Anderson
+- Code Complete 2 - Steve McConnell
 - Enterprise Integration Patterns - Gregor Hohpe, Bobby Woolf
 - Service Design Patterns - Robert Daigneau
 - Facts and Fallacies of Software Engineering - Robert L. Glass
-- Code Complete 2 - Steve McConnell
 - Software Engineering at Google - Titus Winters, Tom Manshreck, Hyrum Wright
 - Patterns of Enterprise Application Architecture - Martin Fowler
 - Javascript: The Good Parts - Douglas Crockford
 - Accelerate - Nicole Forsgren, Jez Humble, Gene Kim
-- 
 
 ## Photography Books
 
