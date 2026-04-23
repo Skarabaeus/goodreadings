@@ -14,6 +14,7 @@ Last Updated: 2026-04-23
 - [Give and Take](https://amzn.to/4laeOda) - Adam Grant
 - [Drive](https://amzn.to/3YcwhaS) - Daniel H. Pink
 - [The Deadline](https://amzn.to/4cIbJgY) - Tom DeMarco
+- [Multipliers](https://amzn.to/4mIbS8G) - Liz Wiseman
 
 ## AI
 
