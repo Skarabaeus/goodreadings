@@ -40,7 +40,7 @@ Last Updated: 2025-04-01
 ## Photography
 
 - [More than a rock](https://amzn.to/4hZJURP) - Guy Tal
-- [Die Seele der Kamera]([https://amzn.to/4hZJURP](https://amzn.to/4cs0U3N) - David duChemin
+- [Die Seele der Kamera](https://amzn.to/4hZJURPhttps://amzn.to/4cs0U3N) - David duChemin
 
 ## Private Finances
 
