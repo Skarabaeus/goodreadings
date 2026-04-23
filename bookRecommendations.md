@@ -1,6 +1,6 @@
 # Book Recommendations
 
-Last Updated: 2025-04-01
+Last Updated: 2026-04-23
 
 **Note**: the links are affiliate links to Amazon.de
 
