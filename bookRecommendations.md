@@ -13,6 +13,7 @@ Last Updated: 2026-04-23
 - [The 5 Dysfunctions of A Team](https://amzn.to/3R0XxFz) - Patrick Lencioni
 - [Give and Take](https://amzn.to/4laeOda) - Adam Grant
 - [Drive](https://amzn.to/3YcwhaS) - Daniel H. Pink
+- [The Deadline](https://amzn.to/4cIbJgY) - Tom DeMarco
 
 ## AI
 
